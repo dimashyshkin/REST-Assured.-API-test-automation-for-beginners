@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-29T17:34:56Z" name="Default suite" finished-at="2020-02-29T17:34:58Z" duration-ms="1678">
+    <groups>
+    </groups>
+    <test started-at="2020-02-29T17:34:56Z" name="Default test" finished-at="2020-02-29T17:34:58Z" duration-ms="1678">
+      <class name="com.herokuapp.restfulbooker.GetBookingIdsTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.herokuapp.restfulbooker.GetBookingIdsTests@9225652]" started-at="2020-02-29T12:34:56Z" name="setUp" finished-at="2020-02-29T12:34:56Z" duration-ms="342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getBookingIdsWithFilterTest()[pri:0, instance:com.herokuapp.restfulbooker.GetBookingIdsTests@9225652]" started-at="2020-02-29T12:34:56Z" name="getBookingIdsWithFilterTest" finished-at="2020-02-29T12:34:57Z" duration-ms="1037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookingIdsWithFilterTest -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.herokuapp.restfulbooker.GetBookingIdsTests@9225652]" started-at="2020-02-29T12:34:57Z" name="setUp" finished-at="2020-02-29T12:34:57Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getBookingIdsWithoutFilterTest()[pri:0, instance:com.herokuapp.restfulbooker.GetBookingIdsTests@9225652]" started-at="2020-02-29T12:34:57Z" name="getBookingIdsWithoutFilterTest" finished-at="2020-02-29T12:34:58Z" duration-ms="286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookingIdsWithoutFilterTest -->
+      </class> <!-- com.herokuapp.restfulbooker.GetBookingIdsTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

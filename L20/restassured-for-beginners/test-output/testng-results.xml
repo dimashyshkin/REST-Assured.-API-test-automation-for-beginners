@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-03-03T01:10:07Z" name="Default suite" finished-at="2020-03-03T01:10:09Z" duration-ms="1776">
+    <groups>
+    </groups>
+    <test started-at="2020-03-03T01:10:07Z" name="Default test" finished-at="2020-03-03T01:10:09Z" duration-ms="1776">
+      <class name="com.herokuapp.restfulbooker.GetBookingTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.herokuapp.restfulbooker.GetBookingTests@9225652]" started-at="2020-03-02T20:10:07Z" name="setUp" finished-at="2020-03-02T20:10:07Z" duration-ms="338" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="getBookingXMLTest()[pri:0, instance:com.herokuapp.restfulbooker.GetBookingTests@9225652]" started-at="2020-03-02T20:10:07Z" name="getBookingXMLTest" finished-at="2020-03-02T20:10:09Z" duration-ms="1426" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getBookingXMLTest -->
+      </class> <!-- com.herokuapp.restfulbooker.GetBookingTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

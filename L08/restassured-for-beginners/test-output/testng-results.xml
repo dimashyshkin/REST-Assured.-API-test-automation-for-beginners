@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-22T17:56:31Z" name="Default suite" finished-at="2020-02-22T17:56:32Z" duration-ms="1196">
+    <groups>
+    </groups>
+    <test started-at="2020-02-22T17:56:31Z" name="Default test" finished-at="2020-02-22T17:56:32Z" duration-ms="1196">
+      <class name="com.herokuapp.restfulbooker.HealthCheckTest">
+        <test-method signature="healthCheckTest()[pri:0, instance:com.herokuapp.restfulbooker.HealthCheckTest@3e2e18f2]" started-at="2020-02-22T12:56:31Z" name="healthCheckTest" finished-at="2020-02-22T12:56:32Z" duration-ms="1183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- healthCheckTest -->
+      </class> <!-- com.herokuapp.restfulbooker.HealthCheckTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
